@@ -1,6 +1,6 @@
 ## Image Upload Component
 
-### Usage
+### Description
 <img width="auto" height="100" alt="Screenshot 2022-12-17 at 4 10 50 PM" src="https://myoctocat.com/assets/images/base-octocat.svg">
 
 > To easily display image preview and image upload with one component
