@@ -3,6 +3,7 @@
 ### Description
 <img width="auto" height="100" alt="Screenshot 2022-12-17 at 4 10 50 PM" src="https://myoctocat.com/assets/images/base-octocat.svg">
 
+**Component Name - Select2.vue**
 > Select2 dropdown UI component
 
 
