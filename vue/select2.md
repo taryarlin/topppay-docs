@@ -47,7 +47,7 @@
     ajax-method="POST"
 >
     <option value="1" selected>
-        {{ exchangeRate.currency.name }} ({{ exchangeRate.currency.abbreviation }})
+        Kyat
     </option>
 </select-2>
 ```
