@@ -10,10 +10,22 @@
 
 ### Available Props
 
-| Prop Name       | Type    | Description                           |
-|-----------------|---------|---------------------------------------|
-| label           | String  | For field label                       |
-| name            | String  | Form input name                       |
-| wrapper-classes | String  | To add custom classes to parent div   |
-| src             | String  | To show existing image                |
-| required        | Boolean | To add red asterisk (*) sign in label |
+| Prop Name       | Type    | Description                           | Required |
+|-----------------|---------|---------------------------------------|----------|
+| label           | String  | For field label                       | required |
+| name            | String  | Form input name                       | required |
+| wrapper-classes | String  | To add custom classes to parent div   | optional |
+| src             | String  | To show existing image                | optional |
+| required        | Boolean | To add red asterisk (*) sign in label | optional |
+
+### Full Expression
+
+```html
+<image-upload 
+  label="Slip Photo" 
+  name="photo"
+  wrapper-classes="mb-4 bg-rose-600"
+  required="true"
+  src="www.toppay.com/public/image/flower.png"
+/>
+```
