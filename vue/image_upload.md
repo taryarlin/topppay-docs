@@ -3,11 +3,13 @@
 ### Description
 <img width="auto" height="100" alt="Screenshot 2022-12-17 at 4 10 50 PM" src="https://myoctocat.com/assets/images/base-octocat.svg">
 
+**Component Name - ImageUpload.vue**
 > To easily display image preview and image upload with one component
+
 
 ### Basic Usage
 ```html
-<image-upload label="Slip Photo" name="photo"/>
+<image-upload label="Slip Photo" name="photo"></image-upload>
 ```
 
 ### Expected UI
@@ -32,5 +34,6 @@
   wrapper-classes="mb-4 bg-rose-600"
   required="true"
   src="www.toppay.com/public/image/flower.png"
-/>
+>
+</image-upload>
 ```
