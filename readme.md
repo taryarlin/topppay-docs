@@ -10,4 +10,4 @@
 
 ### Blade Components
 
-> Please give me a favor. If you see some issues within this components, please fix in the code and update in this document.
+> Please give me a favor. If you see any issues within this components, please fix in the code and update in this document.
